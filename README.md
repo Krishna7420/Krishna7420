@@ -1,98 +1,102 @@
-<!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Shrikrishna%20Thodsare&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<!-- 🌊 DEADLY WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7f00ff&height=220&section=header&text=Shrikrishna%20Thodsare&fontSize=45&fontAlignY=35&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+iOS+Developer+%F0%9F%93%B1;Swift+%7C+UIKit+%7C+SwiftUI+%7C+MVVM;API+Integration+%7C+Firebase+%7C+CoreData;Learning+DSA+Daily+%F0%9F%94%A5;Building+Apps+That+Feel+Premium+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=Aspiring+iOS+Developer+%F0%9F%93%B1;Swift+%7C+UIKit+%7C+SwiftUI+(Pursuing)+%F0%9F%94%A5;MVVM+%7C+API+Integration+%7C+Firebase;I+Build+Clean+%26+Fast+iOS+Apps+%E2%9C%A8;DSA+%2B+Interview+Prep+Daily+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="mailto:shrikkrishnathodsare21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shrikkrishnathodsare21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-shrikkrishnathodsare21%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shrikrishna-thodsare-06733b228">
-    <img src="https://img.shields.io/badge/LinkedIn-Shrikrishna%20Thodsare-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shrikrishna%20Thodsare-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=7f00ff&style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ About Me
-🎯 **Aspiring iOS Developer** with strong fundamentals in **Swift, UIKit and SwiftUI(Pursuing)**  
-✅ Experienced in **API Integration**, building clean apps, and working with **Firebase**  [oai_citation:1‡°Shrikrishna_Thodsare_iOS-Dev_Resume-3.pdf](sediment://file_00000000dae071f89246cdef60d1d652)  
+👨‍💻 Aspiring **iOS Developer** with strong foundation in **Swift & UIKit**  
+🔥 Currently pursuing **SwiftUI** and building modern iOS apps  
+🎯 Focused on **MVVM, API Integration, Firebase & Interview Prep**  
 📍 Pune, Maharashtra, India  
 
 ---
 
-## 🧠 Skills (iOS Stack)
-✅ Swift • UIKit • Xcode • SwiftUI(Pursuing)
+## 🧠 Skills & Stack
+✅ Swift • UIKit • **SwiftUI (Pursuing)**  
 ✅ MVVM • MVC • AutoLayout  
-✅ REST APIs • JSON Parsing • Codable  
-✅ URLSession • Alamofire • CocoaPods • SPM  
+✅ REST API • JSON • Codable  
+✅ URLSession • Alamofire  
 ✅ Firebase Auth • Firestore • CoreData  
+✅ Git • GitHub • Postman • Figma  
 
 ---
 
-## 🧰 Tools & Tech (Animated Icons)
+## 🧰 Tools (Animated Icons)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,firebase,postman,figma&perline=8" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌦 Weather App — SwiftUI | MVVM | API Integration
-✅ Real-time Weather App with clean UI + Location based updates  
-- URLSession + Codable JSON parsing  
-- @State / @Published dynamic UI  
-- Reusable UI components + error handling  
-
-
----
+## ⚔️ Projects (Showcase)
+### 🌦 Weather App — SwiftUI | MVVM | API
+✅ Real-time Weather + Location based UI  
+🔗 Repo: **(Add Link Here)**
 
 ### ⚖️ BMI Calculator — UIKit | MVC
-✅ Full BMI Calculator with clean architecture  
-- Reusable UI components  
-- Color coded health categories  
-
-
----
+✅ Clean UI + Instant Result  
+🔗 Repo: **(Add Link Here)**
 
 ### 💰 CRYPTRIP - Wallet Tracker — UIKit | MVVM | Firebase (In Progress)
-🚧 Crypto prices + watchlist + detailed market info  
-- Firebase Auth (Email + Google Sign-In)  
-- API charts up to 5 years  
-
+🚧 Watchlist + Charts + Market Data  
+🔗 Repo: **(Add Link Here)**
 
 ---
 
-## 🏆 GitHub Trophies (Looks Cool 😄)
+## 🏆 Trophies (Looks Deadly)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats (Ultra Pro)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Streak Stats (Crazy Effect)
+## 🔥 Streak (Hardcore)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation (Crazy Animation)
+## 📈 Live Contribution Graph (Deadly Animation Feel)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧨 Random Dev Quote (Auto Changes)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Snake Animation (Ultimate)
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
@@ -105,5 +109,5 @@
 
 ---
 
-<!-- WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
+<!-- 🌊 DEADLY FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00c6ff&height=140&section=footer" />
