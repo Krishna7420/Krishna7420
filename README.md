@@ -96,13 +96,6 @@
 
 ---
 
-## 🐍 Snake Animation (Ultimate)
-<p align="center">
-  <img src="https://github.com/Krishna7420/Krishna7420/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 📧 Email: **shrikkrishnathodsare21@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/shrikrishna-thodsare-06733b228  
